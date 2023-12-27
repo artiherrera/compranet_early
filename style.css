@@ -31,3 +31,11 @@ h1 {
 .boton-donar:hover, .boton-enviar:hover {
     background-color: #424247;
 }
+
+
+.descripcion {
+    margin: 20px 0;
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #333; /* Ajusta el color según tu diseño */
+}
